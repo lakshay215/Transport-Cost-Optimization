@@ -121,6 +121,11 @@ excel/
   └── transport_solver.xlsx      # Interactive matrix with Excel Solver add-in
 
 
+Dashboard of the Project is 
+<img width="1231" height="687" alt="image" src="https://github.com/user-attachments/assets/3553872c-c709-44cf-a7b0-0e586bb6bf34" />
+
+
+
 
 
 ## Tech Stack
